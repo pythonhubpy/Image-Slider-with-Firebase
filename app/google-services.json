@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740663444410",
+    "firebase_url": "https://imageslider-de3f4.firebaseio.com",
+    "project_id": "imageslider-de3f4",
+    "storage_bucket": "imageslider-de3f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740663444410:android:a47a22048a5824cda9d383",
+        "android_client_info": {
+          "package_name": "com.example.imageslider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740663444410-hlhi4qsd3mcb0ltu5rrdjptaf17ke10v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvHTCTfkhkHA6VnYo2IYQmzcnatQysACs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740663444410-hlhi4qsd3mcb0ltu5rrdjptaf17ke10v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
